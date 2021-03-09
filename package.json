@@ -1,8 +1,12 @@
 {
     "name": "warm-up",
-    "displayName": "Warm up",
-    "description": "A warmed colored theme",
+    "author": {"name": "Stephan Löcher"},
+    "displayName": "Warm up - Medium Dark Theme with clear colors",
+    "description": "A dark brown color Theme with clearly highlighted Syntax. It´s developed for JS,TS,HTML,EJS. Every other language should work too. If not, please let me know",
+    "keywords": ["theme", "dark", "clear", "color"],
     "version": "0.0.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "icon": "img/icon.png",
     "engines": {
         "vscode": "^1.54.0"
     },
