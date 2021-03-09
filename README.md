@@ -1,13 +1,21 @@
-# README
-## This is the README for your extension "warm-up"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Warm up Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## A bit different Theme, created from scratch
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Thank you for your interest in the design. But what is so special about this design?
 
-**Enjoy!**
+Most Designs are one in one color or so contrary, that I got problems with my eyes.
+
+So I decidet to make a theme, wich is **easy to read**, **not to colorfull** and nevertheless **clearly designed with syntax highlighting**.
+
+## Wich languages are supported?
+
+I made this design for
+- HTML
+- Javascript
+- Typescript
+- CSS
+- SCSS/SASS
+
+But it should also work for other languages. Feel free, to write me, if you are still missing something.
+

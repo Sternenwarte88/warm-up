@@ -1,12 +1,20 @@
 {
     "name": "warm-up",
-    "author": {"name": "Stephan Löcher"},
+    "author": {
+        "name": "Stephan Löcher"
+    },
+    "publisher": "StephanLcher",
     "displayName": "Warm up - Medium Dark Theme with clear colors",
-    "description": "A dark brown color Theme with clearly highlighted Syntax. It´s developed for JS,TS,HTML,EJS. Every other language should work too. If not, please let me know",
-    "keywords": ["theme", "dark", "clear", "color"],
+    "description": "A dark brown color Theme with clearly highlighted Syntax.",
+    "keywords": [
+        "theme",
+        "dark",
+        "clear",
+        "color"
+    ],
     "version": "0.0.1",
     "license": "CC-BY-NC-SA-4.0",
-    "icon": "img/icon.png",
+    "icon": "themes/img/icon.png",
     "engines": {
         "vscode": "^1.54.0"
     },
@@ -21,5 +29,13 @@
                 "path": "./themes/Warm Up Theme-color-theme.json"
             }
         ]
+    },
+    "homepage": "https://github.com/Wusabinga/warm-up",
+    "bugs": {
+        "url": "https://github.com/Wusabinga/warm-up/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Wusabinga/warm-up.git"
     }
 }

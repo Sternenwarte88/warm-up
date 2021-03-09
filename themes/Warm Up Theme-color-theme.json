@@ -217,7 +217,13 @@
         {
             "scope": "variable.other",
             "settings": {
-                "foreground": "#57da00"
+                "foreground": "#54d300"
+            }
+        },
+        {
+            "scope": "variable.other.readwrite",
+            "settings": {
+                "foreground": "#9ec902"
             }
         },
         {
@@ -261,6 +267,65 @@
             "scope": "string.quoted.double.html",
             "settings": {
                 "foreground": "#ccfd5a"
+            }
+        },
+        {
+            "scope": "entity.other.attribute-name.class.css",
+            "settings": {
+                "foreground": "#ffc400"
+            }
+        }, {
+            "scope": "variable.scss",
+            "settings": {
+                "foreground": "#FF0000"
+            }
+        },
+        {
+            "scope": "support.function.misc",
+            "settings": {
+                "foreground": "#fabf72"
+            }
+        },
+        {
+            "scope": "support.constant.property-value",
+            "settings": {
+                "foreground": "#d0ff00"
+            }
+        },
+        {
+            "scope": "constant.numeric",
+            "settings": {
+                "foreground": "#00d9ff"
+            }
+        },
+        {
+            "scope": "entity.name.tag",
+            "settings": {
+                "foreground": "#91ff00"
+            }
+        },
+        {
+            "scope": "entity.other.attribute-name.pseudo-class",
+            "settings": {
+                "foreground": "#20c000"
+            }
+        },
+        {
+            "scope": "entity.other.attribute-name.id",
+            "settings": {
+                "foreground": "#93b400"
+            }
+        },
+        {
+            "scope": "variable.parameter",
+            "settings": {
+                "foreground": "#c52e00"
+            }
+        },
+        {
+            "scope": "variable.parameter.url",
+            "settings": {
+                "foreground": "#46ac8d"
             }
         }
     ],
